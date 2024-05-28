@@ -9,3 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.1] - 2024-05-327
 ### Added
 - Added changelog.md
+
+### Chore
+- Remove arquivo.txt
+- Remove arquivo.txt2
