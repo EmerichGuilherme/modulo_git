@@ -1,65 +1,99 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.5">
   <diagram name="Página-1" id="l3UohBoxEaSDBaWs7Ra2">
-    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1006" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="75mYgJ4UwRwPM1Jx1czx-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="75mYgJ4UwRwPM1Jx1czx-1" target="75mYgJ4UwRwPM1Jx1czx-2">
+        <mxCell id="75mYgJ4UwRwPM1Jx1czx-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="75mYgJ4UwRwPM1Jx1czx-20" target="75mYgJ4UwRwPM1Jx1czx-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="75mYgJ4UwRwPM1Jx1czx-1" value="Conferir se a lâmpada está queimada" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="90" y="70" width="150" height="90" as="geometry" />
+        <mxCell id="75mYgJ4UwRwPM1Jx1czx-20" value="Inicio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="75mYgJ4UwRwPM1Jx1czx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="75mYgJ4UwRwPM1Jx1czx-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="110" as="targetPoint" />
+        <mxCell id="75mYgJ4UwRwPM1Jx1czx-21" value="A Lâmpada está acesa?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="150" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="75mYgJ4UwRwPM1Jx1czx-23" value="Sim" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="75mYgJ4UwRwPM1Jx1czx-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="270" as="sourcePoint" />
+            <mxPoint x="520" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="75mYgJ4UwRwPM1Jx1czx-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="75mYgJ4UwRwPM1Jx1czx-2" target="75mYgJ4UwRwPM1Jx1czx-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="75mYgJ4UwRwPM1Jx1czx-24" value="Vá para outro cômodo" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="170" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="75mYgJ4UwRwPM1Jx1czx-2" value="Pegar uma escada" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="290" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="75mYgJ4UwRwPM1Jx1czx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="75mYgJ4UwRwPM1Jx1czx-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="140" as="sourcePoint" />
+        <mxCell id="75mYgJ4UwRwPM1Jx1czx-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="75mYgJ4UwRwPM1Jx1czx-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="270" as="sourcePoint" />
+            <mxPoint x="300" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="100" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="75mYgJ4UwRwPM1Jx1czx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="75mYgJ4UwRwPM1Jx1czx-6" target="75mYgJ4UwRwPM1Jx1czx-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="75mYgJ4UwRwPM1Jx1czx-6" value="Subir na escada" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="490" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="75mYgJ4UwRwPM1Jx1czx-8" value="Pegar uma lâmpada nova" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="75mYgJ4UwRwPM1Jx1czx-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="75mYgJ4UwRwPM1Jx1czx-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="240" as="targetPoint" />
+        <mxCell id="75mYgJ4UwRwPM1Jx1czx-29" value="Não" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="75mYgJ4UwRwPM1Jx1czx-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="400" as="sourcePoint" />
+            <mxPoint x="300" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="75mYgJ4UwRwPM1Jx1czx-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="75mYgJ4UwRwPM1Jx1czx-10" target="75mYgJ4UwRwPM1Jx1czx-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="75mYgJ4UwRwPM1Jx1czx-30" value="Aperte o interruptor" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="370" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="75mYgJ4UwRwPM1Jx1czx-10" value="Retirar lâmpada queimada" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="75mYgJ4UwRwPM1Jx1czx-31" value="A Lâmpada está acesa?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="500" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="75mYgJ4UwRwPM1Jx1czx-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="75mYgJ4UwRwPM1Jx1czx-14" target="75mYgJ4UwRwPM1Jx1czx-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="75mYgJ4UwRwPM1Jx1czx-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="75mYgJ4UwRwPM1Jx1czx-30" target="75mYgJ4UwRwPM1Jx1czx-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="460" as="sourcePoint" />
+            <mxPoint x="340" y="430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="75mYgJ4UwRwPM1Jx1czx-14" value="Colocar a nova" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="75mYgJ4UwRwPM1Jx1czx-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="565" as="sourcePoint" />
+            <mxPoint x="560" y="255" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="565" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="75mYgJ4UwRwPM1Jx1czx-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="75mYgJ4UwRwPM1Jx1czx-16" target="75mYgJ4UwRwPM1Jx1czx-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="75mYgJ4UwRwPM1Jx1czx-34" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="520" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="75mYgJ4UwRwPM1Jx1czx-16" value="Descer da escada" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="75mYgJ4UwRwPM1Jx1czx-36" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="630" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="75mYgJ4UwRwPM1Jx1czx-18" value="testar lâmpada nova&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="75mYgJ4UwRwPM1Jx1czx-37" value="&lt;ol&gt;&lt;li&gt;Encontre uma lâmpada nova&lt;/li&gt;&lt;li&gt;Retire a lâmpada queimada&lt;/li&gt;&lt;li&gt;Coloque a lâmpada nova&lt;/li&gt;&lt;/ol&gt;" style="html=1;aspect=fixed;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="690" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="75mYgJ4UwRwPM1Jx1czx-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="75mYgJ4UwRwPM1Jx1czx-31" target="75mYgJ4UwRwPM1Jx1czx-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="690" as="sourcePoint" />
+            <mxPoint x="340" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="75mYgJ4UwRwPM1Jx1czx-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="75mYgJ4UwRwPM1Jx1czx-37" target="75mYgJ4UwRwPM1Jx1czx-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="730" as="sourcePoint" />
+            <mxPoint x="350" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="760" />
+              <mxPoint x="130" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="75mYgJ4UwRwPM1Jx1czx-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="75mYgJ4UwRwPM1Jx1czx-24" target="75mYgJ4UwRwPM1Jx1czx-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="400" as="sourcePoint" />
+            <mxPoint x="690" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="75mYgJ4UwRwPM1Jx1czx-41" value="Fim" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="170" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
